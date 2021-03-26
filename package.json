@@ -1,0 +1,20 @@
+{
+  "name": "music_software",
+  "version": "1.0.0",
+  "description": "API 接口：http://musicapi.leanapp.cn/",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "less": "^4.0.0",
+    "less-loader": "^7.2.1",
+    "vue-cli-plugin-axios": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
